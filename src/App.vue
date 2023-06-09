@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="my first vue"/>
+  <HelloWorld msg="my first vue github scarlett"/>
 </template>
 
 <script>
